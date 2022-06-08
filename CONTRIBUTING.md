@@ -28,3 +28,6 @@ is organized and other information that is pertinent to contributing.
 ### Getting Started
 
 It's encouraged that you look under the [Issues](https://github.com/IBM/claimed/issues) tab for contribution opportunites.
+
+
+Just an edit.
